@@ -1,1 +1,2 @@
-# conno1234
+CS Login: cmcgrory
+website:  weblab.cs.uml.edu/~cmcgrory
